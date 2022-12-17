@@ -3,6 +3,10 @@
 /**
  * main - prints the environment
  *
+ * @ac: argument count
+ * @av: argument vector
+ * @env: environment
+ *
  * Return: Always 0.
  */
 int main(int ac, char **av, char **env)
